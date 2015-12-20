@@ -1,0 +1,15 @@
+{
+  "name": "cellular-automata-compression",
+  "version": "0.1.0",
+  "description": "cellular automata compression",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "dev": "node index.js"
+  },
+  "author": "samiralajmovic",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
